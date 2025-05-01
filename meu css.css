@@ -1,12 +1,12 @@
 .classeTeste{
     color: blue;
     text-align: center;
-    border: 2px solid green;
+    border: 2px solid rgb(250, 250, 250);
     margin-top: 10px;
 }
 
 body {
-  background-color: lightblue;
+  background-color: rgb(116, 204, 233);
 }
 
 h1 {
@@ -17,7 +17,7 @@ h1 {
 p {
   font-family: verdana;
   font-size: 20px;
-  color: yellowgreen;
+  color: rgb(255, 255, 255);
   border: 2px solid black;
 }
 #meuID {
